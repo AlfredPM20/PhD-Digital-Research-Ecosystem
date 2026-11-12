@@ -1,11 +1,4 @@
-# M5 — Activity 2: Verification of AI-Suggested Scientific References
-
-**Student:** Alfred Pitia Martin Loro  
-**Module:** M5 — Digital Culture (Professor Moussa Ziggaf)  
-**Doctoral topic:** AI-based modelling and decision support for CSP-driven MED–TVC desalination  
-**AI tool used:** ChatGPT (GPT-6)  
-**Test date:** 12 November 2026
-
+# Verification of AI-Suggested Scientific References
 ## 1. Initial AI request
 
 > Suggest five recent, peer-reviewed scientific references (2022–2026) relevant to solar/CSP-driven MED–TVC desalination, operating variability, or machine-learning-assisted optimisation. For each reference, provide its authors, year, title, journal, DOI, and one specific claim about its methodology or results.
@@ -28,4 +21,4 @@ For each suggested reference, its DOI was resolved to a publisher or indexed pub
 
 **Scientific scope matters:** Reference 1 uses parabolic-trough solar heat and seasonal inputs, not the same Brayton exhaust-gas arrangement used in my thesis. Reference 2 centres on fouling-aware optimisation; Reference 3 on ejector adaptability; Reference 4 compares hybrid solar desalination concepts with storage; Reference 5 optimises an ejector component rather than the complete plant. These papers are relevant but should not be represented as identical to my CSP–MED–TVC steady-state operating-window study.
 
-**Verification limits:** Publisher abstracts and bibliographic records were checked, but full-text methods, all reported numerical results and retraction statuses were not independently audited as part of this specific five-reference exercise. Checking the exact DOI and reading the primary article remain necessary before citing a scientific claim in a manuscript.
+**Verification limits:** Publisher abstracts and bibliographic records were checked, but full-text methods were not checked.
