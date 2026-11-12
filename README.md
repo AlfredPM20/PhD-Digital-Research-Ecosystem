@@ -1,7 +1,7 @@
 # PhD-Digital-Research-Ecosystem
 Alfred Pitia Martin Loro
-PhD Researcher – Energy and Intelligent Systems
-ENSA / ENSI Tangier, Abdelmalek Essaâdi University, Morocco
+PhD Researcher 
+ENSA/ENSI Tangier, Abdelmalek Essaâdi University, Morocco
 
 # Research Overview
 My doctoral research focuses on artificial intelligence, renewable energy systems, and sustainable desalination technologies, with particular emphasis on machine-learning-based modelling and multi-criteria decision support for Concentrated Solar Power (CSP)-driven Multi-Effect Distillation with Thermal Vapour Compression (MED-TVC).
