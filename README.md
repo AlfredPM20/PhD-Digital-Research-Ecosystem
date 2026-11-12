@@ -1,4 +1,4 @@
-# PhD-Digital-Research-Ecosystem
+# PhD Digital Research Ecosystem
 Alfred Pitia Martin Loro
 PhD Researcher 
 ENSA/ENSI Tangier, Abdelmalek Essaâdi University, Morocco
